@@ -32,7 +32,7 @@ This project goal is to predict in East Africa, whether an individual is most li
 Subsequently providing a picture of the level of financial inclusion in the region and insights on demographic factors that may have an effect on the individuals financial outcome.
 
 ## _Authors and Acknowledgment_ ##
-sgich
+sgich,
 Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
 
 
